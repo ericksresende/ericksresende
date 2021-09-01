@@ -1,16 +1,12 @@
-### Hi there 👋
+Hi, i'm Erick Santos!
+## About
+- 📚 Computer Science Student at the Federal University of Sergipe
+- 🔭 I’m currently working on IFS
+- 📫 How to reach me: ericksresende@gmail.com
 
-<!--
-**ericksresende/ericksresende** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+<div style="display: inline_block"><br>
+	<img align="center" alt="Erick-Python" height="30" width="100" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="Erick-PowerBI" height="30" width="100" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
+ </div>
+  
