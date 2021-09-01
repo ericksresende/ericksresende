@@ -1,4 +1,4 @@
-Hi, i'm Erick Santos!
+# Hi, I'm Erick Santos!
 ## About
 - 📚 Computer Science Student at the Federal University of Sergipe
 - 🔭 I’m currently working on IFS
