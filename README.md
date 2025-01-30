@@ -1,7 +1,7 @@
 ## Hello, I'm Erick Santos! 👋
 
 ### About Me
-- 📚 Computer Science student at the Federal University of Sergipe.
+- 📚 Computer Science at the Federal University of Sergipe.
 - 👨‍💻 Passionate about web development, currently focused on personal and freelance projects.
 - 🌱 Currently improving my skills in React.
 - 📫 How to contact me: ericksresende@gmail.com
